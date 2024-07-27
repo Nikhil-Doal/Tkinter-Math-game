@@ -34,7 +34,3 @@ Description: This program is a math flash card game created using the Tkinter
              correctness of the answer and updates the progress bar
              accordingly. The user can also view the question log to review
              their previous answers and track their progress.
-
-             Topics that have been used outside of the provided booklet like:
-             .tkraise() and .place() have been explained in the attached
-             document 
